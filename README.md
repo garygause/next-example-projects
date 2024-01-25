@@ -6,4 +6,4 @@ This is a listing of the example projects I have written using the Nextjs framew
 
 - [NextLevel Meals](https://github.com/garygause/next-meals-app): web and server components for a meals sharing app. (2023)
 
-- [NextEvents](https://github.com/garygause/next-events-app): events app using Nextjs.
+- [NextEvents](https://github.com/garygause/next-events-app): events app using Nextjs. (2024)
